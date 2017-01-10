@@ -2,8 +2,9 @@
 ## decoding IR-spectra by visualizing molecular details
 
 - [X] Github
-- [ ] Github private ???
-- [ ] license ??? => **MIT**
+- [ ] Github **private** ???
+- [ ] **license** ??? => **MIT**
+
 - [ ] readthedocs
 - [ ] pip / pypi
 - [ ] conda
@@ -12,6 +13,13 @@
 - [ ] performance
 - [ ] bash line command
 - [x] Python 2.7 | 3.X ??? => 3.X + downgrade(six pakage)
+- [ ] bash line command
+- [ ] test passing
+- [ ] readme description
+- [ ] citation
+- [ ] license
+
+
 
 <!---
 [![Linux Build Status](https://travis-ci.org/mdtraj/mdtraj.svg?branch=master)](https://travis-ci.org/mdtraj/mdtraj)
