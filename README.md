@@ -1,6 +1,9 @@
 # Local-Mode-Analysis
 ## decoding IR-spectra by visualizing molecular details
 
+- [X] Github
+- [ ] Github private ???
+- [ ] license ??? => **MIT**
 - [ ] readthedocs
 - [ ] pip / pypi
 - [ ] conda
