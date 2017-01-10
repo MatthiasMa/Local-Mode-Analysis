@@ -5,14 +5,14 @@
 - [ ] Github **private** ???
 - [ ] **license** ??? => **MIT**
 
-- [ ] readthedocs
+- [X] readthedocs
 - [ ] pip / pypi
 - [ ] conda
 - [ ] test
 - [ ] code structure
 - [ ] performance
 - [ ] bash line command
-- [x] Python 2.7 | 3.X ??? => 3.X + downgrade(six pakage)
+- [X] Python 2.7 | 3.X ??? => 3.X + (downgrade(six pakage))
 - [ ] bash line command
 - [ ] test passing
 - [ ] readme description
