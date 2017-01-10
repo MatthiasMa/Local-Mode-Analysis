@@ -10,7 +10,7 @@ LMA
     from lma import whatever
 
     # To consume latest messages and auto-commit offsets
-    consumer = KafkaConsumer('my-topic',
+    x = xConsumer('my-topic',
                              group_id='my-group',
                              bootstrap_servers=['localhost:9092'])
 
@@ -26,4 +26,4 @@ LMAX
 
     from lma import lmax
     
-    
+
