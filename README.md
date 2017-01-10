@@ -6,7 +6,8 @@
 - [ ] Open a pull request
 
 
-[//]: # Read, write and analyze MD trajectories with only a few lines of Python code.
+ # Read, write and analyze MD trajectories with only a few lines of Python code.
+ <> Read, write and analyze MD trajectories with only a few lines of Python code.
 
 MDTraj is research software. If you make use of MDTraj in scientific publications, please cite it. The BibTeX reference is
 ```
